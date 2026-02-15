@@ -141,5 +141,8 @@ Deployment on HuggingFace Spaces
 Author
 
 Shreya R
+Vetri Selvi M
+Divyadharshiny SP
 M.Tech CSE (Integrated)
 AI and Clinical Decision Support Enthusiast
+
