@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+chromadb
+streamlit
+python-dotenv
+biopython
+pydantic
+openai
